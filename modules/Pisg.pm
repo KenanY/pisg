@@ -209,7 +209,7 @@ sub get_default_config_settings
         chartsregexp => '(?:is )?(?:np:|(?:now )?playing:? |listening to:? )(?:MPEG stream from)?\s*(.*)',
         ignorewords => '',
         noignoredquotes => 0,
-        tablewidth => 574,
+        tablewidth => 784,
         regexpaliases => 0,
 
         botnicks => '',            # Needed for DCpp format (non-irc)
